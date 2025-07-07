@@ -1,0 +1,84 @@
+
+====================================
+*DevOps Mock Interview Questions*
+====================================
+
+1) Explain Your day to day activities as a DevOps engineer
+
+2) Explain git branching strategy in your project
+
+3) How you will deploy developers code into production ?
+
+4) How to clone particular git branch code ?
+
+5) Who is writing cicd pipeline script in your project ?
+
+6) What is the syntax of jenkins declarative pipeline
+
+7) Where do you maintain secrets in your project
+
+8) Can we clone git private repo without using username and pwd?
+
+9) What steps you will follow if project jdk version is not matching jdk version in jenkins vm
+
+10) Explain your project pipeline console output structure
+
+11) Explain the plugins you have used in jenkins
+
+12) What is vulnerability in code review ?
+
+13) How do you resolve vulnerabilities in the code ?
+
+14) Explain K8S Architecture
+
+15) What is Container Engine in K8S ?
+
+16) What is ETCD ?
+
+17) Application is deployed successfully but unable to access it. How do you troubleshoot this ?
+
+18) Explain liveness and readiness probes
+
+19) Explain Ansible Architecture
+
+20) What is galaxy in ansible ?
+
+21) What are the diff modules used in your playbooks ?
+
+22) How do you connect from control node to managed noded in ansible ?
+
+23) What is Inventory in ansible ?
+
+24) What is default bridge in docker ?
+
+25) What are the diff types bridges available ?
+
+26) What is the diff between CMD and ENTRYPOINT ?
+
+27) Where you have used terraform in your project ?
+
+28) Where do you save terraform state file in your project ?
+
+29) Why you are using AWS cloud instead of AZURE ?
+
+30) Can you explain about Auto Scaling in your project ?
+
+31) What is Route 53 in aws ?
+
+32) Have you worked in s3 bucket policies ?
+
+33) How to get s3 buckets files using Linux command ?
+
+34) What is sort command in linux ?
+
+35) What is scp command ?
+
+36) Have you worked in any monitoring tools ?
+
+37) Which ticketing tools you are using in project ?
+
+38) What is problem request and incident request ?
+
+
+
+
