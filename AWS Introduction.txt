@@ -1,0 +1,456 @@
+
+===========
+AWS Cloud
+===========
+
+
+######################################################################
+		Date: 25-July-2024
+		Session: 01
+		Topic: Course Introduction
+######################################################################
+
+1) Who is your trainer
+
+2) Pre-Requisites
+
+3) Course Content
+
+4) Course Info
+
+5) Q  & A
+
+========
+Trainer
+========
+
+Trainer : Mr. Ashok (11+ Yrs Exp)
+
+Role: Project Manager
+
+Training : 8+ Years exp
+
+Ashok IT started in 2020
+
+===============
+Pre-Requisites
+===============
+
+1) Basic knowledge on Linux OS
+
+================================
+Who can join this AWS course ?
+================================
+
+1) DevOps engineers
+
+2) Linux Adminstrators
+
+3) Developers
+
+4) Non-IT background
+
+=================
+Course Content
+=================
+
+1) Challenges with On-Prem infrastructure
+
+2) What is Cloud Computing & Why ?
+
+3) Cloud Service Models (IaaS Vs PaaS Vs  SaaS)
+
+4) AWS Introduction
+
+5) AWS Free Tier Account Setup
+
+6) Regions & Availability Zones
+
+7) AWS Services Tour
+
+8) EC2 (Elastic Compute Cloud) -> Virtual Servers
+
+		- AMI
+		- Instance Types
+		- Keypairs
+		- Security Groups
+		- EBS (Volumes & Snapshots)
+		- Load Balancers
+		- Auto Scaling Group
+
+9) S3 (Simple Storage Service)	-> Unlimited Storage
+
+10) RDS (Relational Database Service) -> Oracle / MySQL/ Postgres
+
+11) DynamoDB (NoSQL Database)
+
+12) IAM (Identity & Access Management)
+
+13) VPC (Virtual Private Cloud) -> Network
+
+			- Types of IP's
+			- VPC Sizing
+			- Subnets
+			- Route tables
+			- IGW
+			- NAT
+			- VPC Peering
+			- NACLs
+
+14) Cloud Watch => Monitoring Resources
+
+15) SNS => Simple Notification Services
+
+16) Elastic Bean Stack -> PaaS
+
+17) AWS Lambdas -> Serverless Computing
+
+18) EFS -> Elastic File System
+
+19) ECS -> Elastic Container Service -> Docker containers
+
+20) EKS -> Elastic Kubernetes Services 
+
+21) Cloud Front -> CDN
+
+22) Route 53 -> DNS
+
+23) AWS CLI -> Commandline interface
+
+24) Billing Overview
+
+
+===============
+Course Details
+===============
+
+Name: AWS Cloud
+
+Course Code : 20-AWS
+
+Start Date: Today
+
+Course Duration: 45 hours
+
+Class Timings: 6:00 PM - 8:00 PM (IST) (Mon-Fri)
+
+
+1) Daily Live Classes
+2) Softcopy Material
+3) Class Videos For Revision (1 Year validity)
+4) Discussion Group
+5) FAQ's
+6) Mock Interviews
+7) Resume Building
+
+Course Fee : 8000 INR
+
+
+==============================
+How to practice AWS concepts
+==============================
+
+=> We should create free tier account in aws cloud (no need to pay amount)
+
+Reference Video : https://youtu.be/xi-JDeceLeI?si=hb2aUKIF9fGyP1iz
+
+######################################################################
+		Date: 26-July-2024
+		Session: 02
+		Topic: What is Cloud Computing & Why
+######################################################################
+
+1) What is IT infrastructure ?
+
+2) Challenges with On-Prem infrastructure
+
+3) What is Cloud Computing
+
+4) Cloud Service Models
+
+5) Cloud Providers
+
+6) AWS Introduction
+
+7) AWS Services Overview
+
+
+=============================
+What is IT Infrastructure ?
+=============================
+
+=> To run a software company then we need to purchase below resources
+
+		a) machines
+		b) network
+		c) power
+		d) storage
+		e) backup
+		f) security
+
+=> The above resources are called as IT infrastructure.
+
+=> We can maintain infrastructure in 2 ways
+
+		a) On-Prem infrastructure		
+		b) Cloud infrastructure
+
+==================================
+What is On-Prem Infrastructure ?
+==================================
+
+=> On-Prem means we need to purchase and we need to maintain our resources to run our business.
+
+=> We have several challenges with On-Prem infrastructure
+
+		1) Lot of money investement
+		2) Lot of man power
+		3) Scalability (increase / decrease)
+		4) Availability
+		5) Network issues
+		6) Security issues
+
+=> To overcome the problems of on-prem infrastructure companies are preferring Cloud Infrastructure.
+
+==========================
+What is Cloud Computing ?
+===========================
+
+=> The process of delivering IT resources over the internet on demand basis is called as Cloud Computing.
+
+=> We have below advantages with cloud computing.
+
+		- Pay as you go
+		- Less cost
+		- Scalability
+		- Availability
+		- Security
+		- Backup
+
+================
+Cloud Providers
+================
+
+=> The companies which are providing IT infrastructure based on pay as you go model are called as Cloud Providers.
+
+1) Amazon (AWS)
+
+2) Microsoft (Azure)
+
+3) Google (GCP)
+
+4) Salesforce
+
+5) Ali Baba
+
+6) Digital Ocean....
+
+=======================
+Cloud Service Models
+======================
+
+=> We have 3 types cloud service models
+
+1) IAAS
+
+2) PAAS
+
+3) SAAS
+
+=============
+What is IaaS
+=============
+
+=> IAAS stands for infrastructure as a service
+
+=> Provider will give infrastructure for us
+
+	Ex: Machines, Network, Storage
+
+=> As a customer we need to prepare platform to run our application
+
+  Ex: install required softwares + setup web servers + deploy application
+
+=============
+What is PaaS
+=============
+
+=> PaaS stands for Platform as a service
+
+=> Provider will give ready made platform to run our application directley.
+
+=> As a customer we need to take care of only our application deployment.
+
+=================
+What is SaaS
+=================
+
+=> SaaS stands for software as a service
+
+-> Cloud Provider will give their application to run our business
+
+  Ex: zoom, google drive, dropbox, microsoft teams, jira ...
+
+
+===========
+AWS Cloud  
+=========== 
+
+=> AWS stands for Amazon webservices.
+
+=> AWS providing cloud services from 2006 onwards
+
+=> AWS works based on Pay as you go model
+
+=> 190+ countries using AWS cloud services to run their businesses
+
+=> AWS having global infrastructure
+
+		33 regions
+		105 availability zones
+
+
+========================
+How to use AWS Cloud ?
+========================
+
+=> We can create free tier account in aws cloud for practice.
+
+Note: If we use any paid service then bill be generated. AWS will not deduct bill amount from our card.
+
+=> AWS will send reminders for bill payment. If we don't pay bill then our AWS account will suspended.
+
+Note: We can request AWS support team to make bill amount as zero for 1 or 2 times.
+
+
+
+===============
+AWS Services
+===============
+
+=> We have 200+ Services.....
+
+1) EC2  : To Create Virtual Machines (Hourly Billing)
+
+2) S3 : Unlimited storage
+
+3) RDS : Relational Database service
+
+4) EFS : Elastic File System (shared file system)
+
+5) IAM : Identity & Access Management
+
+6) VPC : Virtual Private Cloud
+
+7) Elastic Beanstack : End to end webapplication mgmt (PaaS)
+
+8) Lambdas : Serverless computing
+
+9) Route 53 : Domain Mapping (DNS)
+
+10) ECS : Elastic Container Service
+
+11) EKS : Elastic Kubernetes Service
+
+12) Cloud Watch : Monitoring
+
+13) SNS : Simple Notification Service .....
+
+
+######################################################################
+		Date: 27-July-2024
+		Session: 03
+		Topic: EC2
+######################################################################
+
+=> Elastic Compute Cloud
+
+=> It is Most demanded service in AWS
+
+=> It is Used to create Virtual Machines in AWS cloud
+
+=> EC2 VM is called as EC2 instance
+
+	EC2 Instance = Computer / Server / VM / Virtual Machine / V Box
+
+=> EC2 instance is re-sizable (we can change configuration based on demand)
+
+=> EC2 is a paid service (hourly billing)
+
+=> EC2 VM Minimum billing period is 1 hour
+
+			9:00 AM to 9:15 AM => 15 mins => 1 hour billing
+
+			9:30 AM to 9:45 AM => 15 mins => 1 hour billing
+
+Note: To encourage beginners, AWS provided t2.micro/t3.micro for 1 year free
+ (monthly 750 hours)
+
+=> EC2 VM will have storage with EBS service
+
+				Ec2 VM with Windows OS : 30 GB (default)
+
+				EC2 VM with Linux OS : 8 GB (default)
+
+				EBS max capacity : 16 TB (16000 GB)
+
+=> For EC2 instances network will be provided by VPC service.
+
+=> For EC2 vm creation we will use AMI (Amazon Machine Image)
+
+Note: AMI represents configuration required for machine
+
+			- Windows AMI
+			- Amazon Linux AMI
+			- Ubuntu AMI
+			- RedHAT AMI
+
+
+=> To secure EC2 VM we will use Key-Pair (public key & private key)
+
+=> To allow incoming and outgoing traffic for EC2 we will use Security Group
+
+Note-1 : One Key Pair we can use for multiple EC2 instances
+
+Note-2 : One Security Group (SG) we can use for multiple EC2 instances.
+
+===========================
+Lab Practicals on EC2 VM
+===========================
+
+1) Create Key Pair (.pem file)
+
+		- public key (aws will keep it)
+		- private key (we will get it)
+
+2) Create Security Group and update Inbound Rules to allow traffic
+
+		Windows RDP : 3389
+		Linux SSH  : 22
+		HTTP : 80
+		HTTPS : 443
+		MYSQL : 3306		
+
+3) Create EC2 Instance
+
+		- Select AMI (Windows AMI)
+		- Select Instance Type
+		- Select Key Pair
+		- Select Security Group
+		- Select EBS Volume
+		- Launch Instance
+
+
+4) Connect to EC2 instance using RDP client.		
+
+==================================================================================
+
+=============
+Assignment
+=============
+
+👉 Linux VM Setup in AWS : https://www.youtube.com/watch?v=JMlQaTXvw5o
+
+👉 Connect Linux VM with MobaXterm : https://youtu.be/uI2iDk8iTps?si=ZuZs0lQTxoRpbRMk
+
+👉 Connect Linux VM with putty : https://youtu.be/GXc_bxmP0AA?si=HgSydrP89mPxv23s 
